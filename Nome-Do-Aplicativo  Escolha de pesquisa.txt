@@ -1,0 +1,19 @@
+Nome-Do-Aplicativo : Escolha de pesquisa e marca.
+
+Criado : 08/06/2023 ; Última atualização em 08/06/2023 por SamueL Luciano Queiroz.
+
+Requisitos: 
+
+Perguntar ao usúario qual é a melhor marca , coletando tal informação para o banco de dados e imprimindo na tela o resultado.
+
+Pré-Condição : Perguntar e armazenar
+Pós-Condição : Resultado armazenado aparece na tela
+
+----//-------------------------//-------------------//------------------//----
+
+         |Suporte| : samuel.adm0017@gmail.com / @Samuel_luciano10  |             
+
+---//-------------------------//-------------------//-------------------//----
+
+ 
+
